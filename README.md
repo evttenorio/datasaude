@@ -11,5 +11,5 @@ Ferramenta que analisa dados sobre uma determinada ocorrência do número de doe
 Conheça mais sobre nossa ferramenta [clicando aqui. ](http://www.cpsoftware.com.br/datasaude/site/dashboard.html)
 
 
-ANDERSON MORAES - GABRIEL - HENRIQUE FERREIRA - EVERTON TENORIO - FABRISIO SOARES
+`ANDERSON MORAES - GABRIEL - HENRIQUE FERREIRA - EVERTON TENORIO - FABRISIO SOARES`
 

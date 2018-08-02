@@ -12,8 +12,5 @@ Conheça mais sobre nossa ferramenta [clicando aqui. ](http://www.cpsoftware.com
 
 
 	
-    ANDERSON MORAES - 	
-    GABRIEL - HENRIQUE FERREIRA - 	
-    EVERTON TENORIO - 	
-    FABRISIO SOARES
+<p align="center">Anderson Moraes -  Gabriel Lima -  Henrique Ferreira -  Everton Tenorio -  Fabrisio Soares</p>
 
